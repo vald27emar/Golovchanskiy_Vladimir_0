@@ -1,0 +1,11 @@
+C:\Users\golov\Desktop\LABOP1\LABOP1\bin\Debug\LABOP1.exe.config
+C:\Users\golov\Desktop\LABOP1\LABOP1\bin\Debug\LABOP1.exe
+C:\Users\golov\Desktop\LABOP1\LABOP1\bin\Debug\LABOP1.pdb
+C:\Users\golov\Desktop\LABOP1\LABOP1\obj\Debug\LABOP1.csproj.AssemblyReference.cache
+C:\Users\golov\Desktop\LABOP1\LABOP1\obj\Debug\LABOP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\golov\Desktop\LABOP1\LABOP1\obj\Debug\LABOP1.csproj.CoreCompileInputs.cache
+C:\Users\golov\Desktop\LABOP1\LABOP1\obj\Debug\LABOP1.exe
+C:\Users\golov\Desktop\LABOP1\LABOP1\obj\Debug\LABOP1.pdb
+C:\Users\golov\Desktop\LABOP1\LABOP1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\golov\Desktop\LABOP1\LABOP1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\golov\Desktop\LABOP1\LABOP1\obj\Debug\LABOP1.csproj.CopyComplete
